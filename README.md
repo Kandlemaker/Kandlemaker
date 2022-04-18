@@ -2,4 +2,4 @@
 - 👀 I’m interested in Javascript/HTML/CSS and Go
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on: nothing in mind right now. But perhaps...?
-- 📫 Reach me at - mail: icarodecanio@gmail.com / instagram: @icarodecanio
+- 📫 Reach me at - Email: icarodecanio@gmail.com / instagram: @icarodecanio
