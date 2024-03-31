@@ -1,5 +1,2 @@
-- 👋 Hi, I’m Icaro
-- 👀 I’m interested in Javascript/HTML/CSS and Go
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on: nothing in mind right now. But perhaps...?
+- 👋 Idk what to write in heeeeeere wooooooooooo
 - 📫 Reach me at - Email: icarodecanio@gmail.com / instagram: @icarodecanio
